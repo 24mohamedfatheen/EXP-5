@@ -77,7 +77,9 @@ Build the Zener regulator circuit in Proteus using the 1N4735A, the series resis
 
 ### A. Line regulation – simulation
 
-*[ Paste the Proteus line regulation simulation screenshot here ]*
+Conversation with Gemini
+bro for this i think im fucked i only took this screenshot
+
 
 **Figure 3:** Proteus simulation – line regulation
 
