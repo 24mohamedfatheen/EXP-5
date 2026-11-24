@@ -1,8 +1,8 @@
 # EXPERIMENT NO. 5 – ZENER DIODE AS VOLTAGE REGULATOR
 
-| **Name:** | | **Reg. No.:** | |
+| **Name:** |Mohamed Fatheen | **Reg. No.:** | 26006890|
 |---|---|---|---|
-| **Date:** | | **Batch / Section:** | |
+| **Date:** | 24/11/2026| **Batch / Section:** | |
 
 ---
 
